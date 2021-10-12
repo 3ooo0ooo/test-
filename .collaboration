@@ -152,27 +152,5 @@
     },
     "LockDateTime": "2021-10-12T13:31:52.3345692+08:00",
     "ModuleType": 22
-  },
-  {
-    "ModuleName": "Table/表1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-12T13:32:11.9826811+08:00",
-    "ModuleType": 7,
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/表2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-12T13:32:11.9826811+08:00",
-    "ModuleType": 7,
-    "ExclusiveType": 0
   }
 ]
