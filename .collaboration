@@ -160,18 +160,7 @@
       "UserName": "GRAPECITY\\ZoeyHe",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-10-12T14:15:33.8923683+08:00",
-    "ModuleType": 7,
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/表2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-12T14:15:33.8923683+08:00",
+    "LockDateTime": "2021-10-12T14:16:41.4755011+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
