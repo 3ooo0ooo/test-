@@ -138,15 +138,5 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
-  },
-  {
-    "ModuleName": "Tables/aaa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-12T10:15:08.7497351+08:00",
-    "ModuleType": 22
   }
 ]
