@@ -142,16 +142,5 @@
   {
     "ModuleName": "Tables/A",
     "ModuleType": 22
-  },
-  {
-    "ModuleName": "Tables/文件夹1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-12T14:18:16.6488681+08:00",
-    "ModuleType": 22,
-    "ToRemoveFiles": []
   }
 ]
