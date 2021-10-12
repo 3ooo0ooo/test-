@@ -152,5 +152,16 @@
     },
     "LockDateTime": "2021-10-12T14:32:38.4076291+08:00",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-12T14:32:45.4820215+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
