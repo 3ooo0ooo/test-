@@ -142,15 +142,5 @@
   {
     "ModuleName": "Tables/A",
     "ModuleType": 22
-  },
-  {
-    "ModuleName": "Tables/B",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-12T12:19:56.604969+08:00",
-    "ModuleType": 22
   }
 ]
