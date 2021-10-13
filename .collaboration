@@ -141,6 +141,27 @@
   },
   {
     "ModuleName": "Table/_2c",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-13T16:16:22.986376+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\_2c.json",
+      "ForguncyDB.sqlite3"
+    ],
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/_111",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-13T16:16:22.986376+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
