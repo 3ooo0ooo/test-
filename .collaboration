@@ -145,7 +145,17 @@
   },
   {
     "ModuleName": "Table/AAA",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-13T15:45:34.9327626+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\AAA.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   }
 ]
