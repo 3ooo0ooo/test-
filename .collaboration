@@ -142,5 +142,15 @@
   {
     "ModuleName": "ServerCommand/服务端命令1",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "Tables/文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T09:43:22.714465+08:00",
+    "ModuleType": 22
   }
 ]
