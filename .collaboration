@@ -176,18 +176,5 @@
   {
     "ModuleName": "Tables/文件夹4",
     "ModuleType": 22
-  },
-  {
-    "ModuleName": "PCPage/aa",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T17:45:53.1418931+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\aa.json"
-    ]
   }
 ]
