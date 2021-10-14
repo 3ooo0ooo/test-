@@ -176,7 +176,14 @@
   },
   {
     "ModuleName": "Tables/文件夹3",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T10:21:10.6127776+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Tables/文件夹3/文件夹1",
@@ -207,5 +214,15 @@
     "LockDateTime": "2021-10-14T10:20:58.0767132+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/aaaa",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T10:21:10.6127776+08:00",
+    "ModuleType": 22
   }
 ]
