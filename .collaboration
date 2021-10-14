@@ -96,19 +96,6 @@
     "ModuleType": 2
   },
   {
-    "ModuleName": "PCPage/页面1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:39:59.1174523+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
-  },
-  {
     "ModuleName": "MasterPCPage/FGC_母版页",
     "ModuleType": 3
   },
@@ -192,12 +179,6 @@
   },
   {
     "ModuleName": "PCPage/aa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:39:59.1174523+08:00",
     "ModuleType": 1
   }
 ]
