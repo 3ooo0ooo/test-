@@ -157,33 +157,15 @@
   },
   {
     "ModuleName": "Tables/文件夹3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T09:53:51.494077+08:00",
     "ModuleType": 22
   },
   {
     "ModuleName": "Table/表1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T09:54:17.590652+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T09:54:17.590652+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
