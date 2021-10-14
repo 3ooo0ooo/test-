@@ -157,7 +157,14 @@
   },
   {
     "ModuleName": "Tables/文件夹3",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T10:12:17.2339664+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Tables/文件夹1",
@@ -165,12 +172,32 @@
   },
   {
     "ModuleName": "Table/表1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T10:12:17.2339664+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹1\\表1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/_",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T10:12:17.2339664+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹3\\_.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   }
 ]
