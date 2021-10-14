@@ -165,7 +165,7 @@
       "UserName": "GRAPECITY\\ZoeyHe",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-10-14T10:09:18.4400992+08:00",
+    "LockDateTime": "2021-10-14T10:09:29.2404095+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\文件夹1\\文件夹2\\表1.json",
@@ -180,7 +180,7 @@
       "UserName": "GRAPECITY\\ZoeyHe",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-10-14T10:09:18.4400992+08:00",
+    "LockDateTime": "2021-10-14T10:09:29.2404095+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\表2.json",
@@ -199,7 +199,7 @@
       "UserName": "GRAPECITY\\ZoeyHe",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-10-14T10:09:18.4400992+08:00",
+    "LockDateTime": "2021-10-14T10:09:29.2404095+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\文件夹1\\表3.json",
@@ -229,13 +229,13 @@
     "ModuleType": 22
   },
   {
-    "ModuleName": "Tables/文件夹/文件夹2",
+    "ModuleName": "Tables/文件夹2",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\ZoeyHe",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-10-14T10:08:47.9240319+08:00",
+    "LockDateTime": "2021-10-14T10:09:29.2404095+08:00",
     "ModuleType": 22
   },
   {
