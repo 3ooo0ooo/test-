@@ -188,5 +188,15 @@
       "ForguncyDB.sqlite3"
     ],
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Pages/文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T09:57:09.7425599+08:00",
+    "ModuleType": 6
   }
 ]
