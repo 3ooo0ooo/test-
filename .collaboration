@@ -165,11 +165,29 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T09:57:52.0879469+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\文件夹1\\页面2.json"
+    ]
   },
   {
     "ModuleName": "PCPage/页面3",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T09:57:52.0879469+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\文件夹1\\页面3.json"
+    ]
   },
   {
     "ModuleName": "PCPage/页面4",
