@@ -140,17 +140,6 @@
     "ModuleType": 26
   },
   {
-    "ModuleName": "Tables/文件夹1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:08:47.9240319+08:00",
-    "ModuleType": 22,
-    "ToRemoveFiles": []
-  },
-  {
     "ModuleName": "Tables/文件夹1/文件夹1",
     "ModuleType": 22
   },
@@ -160,32 +149,12 @@
   },
   {
     "ModuleName": "Table/表1",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:09:35.8502289+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\文件夹1\\文件夹2\\表1.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表2",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:09:35.8502289+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\表2.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -193,59 +162,15 @@
     "ModuleType": 22
   },
   {
-    "ModuleName": "Table/表3",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:09:35.8502289+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\文件夹1\\表3.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Tables/文件夹1/文件夹2",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:08:47.9240319+08:00",
-    "ModuleType": 22,
-    "ToRemoveFiles": []
-  },
-  {
     "ModuleName": "Tables/文件夹",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:08:47.9240319+08:00",
     "ModuleType": 22
   },
   {
     "ModuleName": "Tables/文件夹2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:09:29.2404095+08:00",
     "ModuleType": 22
   },
   {
     "ModuleName": "Tables/文件夹3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-14T10:09:04.5159559+08:00",
     "ModuleType": 22
   }
 ]
