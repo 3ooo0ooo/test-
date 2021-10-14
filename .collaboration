@@ -167,5 +167,15 @@
   {
     "ModuleName": "Tables/文件夹2",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Tables/文件夹3",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T10:19:02.6621516+08:00",
+    "ModuleType": 22
   }
 ]
