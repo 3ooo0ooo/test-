@@ -161,7 +161,17 @@
   },
   {
     "ModuleName": "Table/表1",
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-10-14T10:19:16.3235997+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹1\\表1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
