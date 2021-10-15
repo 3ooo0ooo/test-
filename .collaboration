@@ -169,12 +169,6 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-10-15T08:59:03.6032051+08:00",
     "ModuleType": 1
   }
 ]
