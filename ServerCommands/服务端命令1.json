@@ -1,0 +1,37 @@
+{
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon",
+      "Permission": {
+        "AllowRoles": [
+          "FGC_LoginUser"
+        ]
+      }
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ReturnCommand, ServerDesignerCommon",
+      "CustomReturns": [
+        {
+          "ReturnPropertyName": "返回值1",
+          "Value": "111"
+        },
+        {
+          "ReturnPropertyName": "返回值2",
+          "Value": "222"
+        }
+      ]
+    }
+  ],
+  "ReturnProperties": [
+    {
+      "Name": "返回值1"
+    },
+    {
+      "Name": "返回值2"
+    }
+  ],
+  "Name": "服务端命令1"
+}
